@@ -1,5 +1,5 @@
 
-// creation of new file and write content inside file in c++
+// creation of new file and write content inside file using c++
 #include <iostream.h>
 #include <fstream.h>
 #include<conio.h>
